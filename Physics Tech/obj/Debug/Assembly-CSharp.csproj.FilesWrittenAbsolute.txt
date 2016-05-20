@@ -1,0 +1,17 @@
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/UnityEngine.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/UnityEditor.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/Mono.Cecil.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/Unity.DataContract.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/guilemartens/Physics Tech/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/guilemartens/Physics Tech/obj/Debug/Assembly-CSharp.dll
+/Users/guilemartens/Physics Tech/obj/Debug/Assembly-CSharp.dll.mdb

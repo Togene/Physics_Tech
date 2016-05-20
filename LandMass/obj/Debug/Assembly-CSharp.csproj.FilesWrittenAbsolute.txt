@@ -1,0 +1,17 @@
+/Users/guilemartens/LandMass/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/guilemartens/LandMass/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/guilemartens/LandMass/obj/Debug/Assembly-CSharp.dll
+/Users/guilemartens/LandMass/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/guilemartens/LandMass/Temp/bin/Debug/UnityEngine.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/UnityEditor.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/Mono.Cecil.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/Unity.DataContract.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/guilemartens/LandMass/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/guilemartens/LandMass/Temp/bin/Debug/Mono.Cecil.Mdb.dll
